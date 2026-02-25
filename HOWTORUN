@@ -1,0 +1,7 @@
+To perform the 13.6 TeV combination run
+
+gfortran mylesen.f -o mylesen
+./mylesen
+mv saved*dat xsection-25feb26
+cd xsection-25feb26
+dattotexinterpolated.py

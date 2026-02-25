@@ -1,0 +1,5 @@
+Ecm = 11500 GeV
+muFcentral = (mH+2mb)/4,   muRcentral = mH/2
+      mH       muF           descr            xs   muR_muF_unc       mub_unc        mb_unc   deltaPDF_up deltaPDF_down   delta_as_up delta_as_down
+     125     33.54    NLO+NNLLpart     4.494e-01      3.06e-02      2.35e-02      8.33e-03      1.19e-02     -1.06e-02     -1.30e-03      6.22e-03
+  125.09    33.562    NLO+NNLLpart     4.480e-01      3.12e-02      2.52e-02      8.05e-03      1.18e-02     -1.05e-02     -1.29e-03      6.20e-03
